@@ -10,26 +10,31 @@ The keypoint in this process is, you have to change the annotation in `extract.p
 That is, the col, row, and frames and the differnt layers of extrating model.  
 
 ***
-Finally, you have to generate 18 feature files (3 * 6):  
+Finally, you have to generate 21 feature files (3 * 7):  
+- extracted_features_ave_60_DATASET.mat  
 - extracted_features_previous_pool_layer_DATASET.mat
 - extracted_features_previous1_pool_layer_DATASET.mat
 - extracted_features_previous2_pool_layer_DATASET.mat
 - extracted_features_previous3_pool_layer_DATASET.mat
 - extracted_features_previous4_pool_layer_DATASET.mat
 - extracted_features_previous5_pool_layer_DATASET.mat
+- extracted_features_row_t_ave_60_DATASET.mat
 - extracted_features_row_t_previous_pool_layer_DATASET.mat
 - extracted_features_row_t_previous1_pool_layer_DATASET.mat
 - extracted_features_row_t_previous2_pool_layer_DATASET.mat
 - extracted_features_row_t_previous3_pool_layer_DATASET.mat
 - extracted_features_row_t_previous4_pool_layer_DATASET.mat
-- extracted_features_col_t_previous5_pool_layer_DATASET.mat
+- extracted_features_row_t_previous5_pool_layer_DATASET.mat
+- extracted_features_col_t_ave_60_DATASET.mat
+- extracted_features_col_t_previous_pool_layer_DATASET.mat
 - extracted_features_col_t_previous1_pool_layer_DATASET.mat
 - extracted_features_col_t_previous2_pool_layer_DATASET.mat
 - extracted_features_col_t_previous3_pool_layer_DATASET.mat
 - extracted_features_col_t_previous4_pool_layer_DATASET.mat
 - extracted_features_col_t_previous5_pool_layer_DATASET.mat
 
-> Notice  
+> Notice (學長命的名...)  
+> ave_60    => `mixed10`in line 36  
 > previous  => `mixed9` in line 36  
 > previous1 => `mixed8` in line 36  
 > previous2 => `mixed7` in line 36  
