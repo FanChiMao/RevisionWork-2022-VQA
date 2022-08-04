@@ -15,4 +15,4 @@ See the introduction of [implementation](./2.%20extract%20features/README.md).
 See the introduction of [implementation](./3.%20predict%20scores/README.md).  
 
 ### 4. fusion  
-See the introduction of [implementation](./4.%fusion/README.md).  
+See the introduction of [implementation](./4.%20fusion/README.md).  
