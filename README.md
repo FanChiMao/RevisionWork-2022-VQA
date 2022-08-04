@@ -6,7 +6,7 @@ Reviewer comments:
 Revised by: Chi-Mao Fan  
 
 ### 1. extract essential frames
-See the introduction of [implementation](./%1.extract%20essential%20frames/README.md)  
+See the introduction of [implementation](./1.%20extract%20essential%20frames/README.md)  
 
 ### 2. extract features  
 See the introduction of [implementation]
