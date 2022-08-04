@@ -1,8 +1,8 @@
 clc;clear all;close all;
-% ¸ÑªR«×
+% Â¸Ã‘ÂªRÂ«Ã—
 width            = 960;
 height           = 540;
-% ¨ú´Vªº¼Æ¥Ø
+% Â¨ÃºÂ´VÂªÂºÂ¼Ã†Â¥Ã˜
 extractedframe = 60;
 frame_interval_row_t = floor(width/extractedframe);
 frame_interval_col_t = floor(height/extractedframe);
