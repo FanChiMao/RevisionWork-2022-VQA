@@ -16,6 +16,7 @@ Run the code [sorted_DMOS.m](./1.%20extract%20essential%20frames/sorted_DMOS.m) 
 > - Confirm the correct video (yuv or mp4 file) path and run.  
 > - The video size (resolution) should be the same size.  
 
+***
 In the end of this process you will generate 5 data:  
 - extract_frame_num4_without_low_value_60_DATASET.xlsx  
 - extract_frame_num_col_t_ave_60_DATASET.xlsx  
